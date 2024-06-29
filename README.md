@@ -53,8 +53,3 @@ The application uses a MySQL database named `onlineexam` with a table `student` 
    - Then download the Executable jar file to run the application
    - Make sure the MySQL database URL will change accordingly to your machine
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
